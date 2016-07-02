@@ -1,0 +1,13 @@
+name: KillAll
+version: 1.0
+author: Martin77Epic
+website: martin77epic.ga
+main: KillAll\Main
+api:
+- 1.0.0
+- 2.0.0
+commands:
+    killall:
+        description: "Kill all Players"
+            usage: "killall"
+
