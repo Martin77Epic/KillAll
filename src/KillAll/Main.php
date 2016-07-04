@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: manueladeridder
- * Date: 02.07.16
- * Time: 08:20
- */
+
 
 namespace KillAll;
 
